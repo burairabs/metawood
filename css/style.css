@@ -16229,6 +16229,10 @@ img {
     display: none;
   }
 
+  .about {
+    margin-top: 3rem;
+  }
+
   .d_profile {
     display: block;
   }
