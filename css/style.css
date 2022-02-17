@@ -14060,6 +14060,20 @@ a.read_more i {
   border-color: var(--secondary-color);
 }
 
+.de_style1 {
+  position: absolute;
+  right: 14px;
+  background: crimson;
+  padding: 0 12px 1px 12px;
+  border-radius: 30px;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border: solid 2px crimson;
+  z-index: 100;
+  color: #fff;
+  border-color: crimson;
+}
+
 .de_countdown.bg-color-secondary {
   border: none;
 }
